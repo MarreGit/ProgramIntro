@@ -17,9 +17,9 @@ public class Test2Test {
         assertEquals(expected, actual);
     }
     @Test
-    public  void testGetWordCount(){
-        String expected = "hej";
-        String actual = Test2.getWordCount();
+    public  void testGetLine(){
+        String expected = "stop";
+        String actual = Test2.getLine();
         assertEquals(expected, actual);
     }
 }

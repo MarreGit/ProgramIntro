@@ -19,8 +19,9 @@ public class Test2 {
     public static int getCharacterCount() {
         return 5;
     }
-    public static String getWordCount() {
-        return "hej";
+
+    public static String getLine() {
+        return "stop";
     }
 
     public void setWordCount(){
